@@ -1,0 +1,4 @@
+import sys
+pid = 1
+map_file=f"/proc/{pid}/maps"
+mem_file=f"/proc/{pid}/mem"
